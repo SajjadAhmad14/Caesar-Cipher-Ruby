@@ -19,5 +19,9 @@ class Cipher
   end
 end
 
-cipher = Cipher.new("I am ZzyYxXwW!", 4)
+puts "Enter any text to cipher it!"
+text = gets.chomp
+puts "Enter key!"
+key = gets.chomp.to_i
+cipher = Cipher.new(text, key)
 p cipher.caesar
