@@ -1,8 +1,6 @@
-Caesar Cipher Implemented In Ruby
-
 # Cearsar Cipher in Ruby
 
-![screenshot](./images/tests.rb)
+![screenshot](./images/tests.png)
 
 - Rspec tests are in a caesar.spec.rb file in spec directory
 - Tests can found for below mentioned instance methods
