@@ -11,8 +11,6 @@ Caesar Cipher Implemented In Ruby
 - Tests can be run using rspec or rspec --format documentation command
 - Screenshot of passing spec is attached above
 
-![screenshot](./images/)
-
 # Project Discription
 
 - Caesar Cipher is technique by using which a string of alphabets can be ciphered
@@ -30,7 +28,7 @@ Caesar Cipher Implemented In Ruby
 
 ## Live Demo
 
-[Live Demo Link](https://repl.it/@SajjadAhmad14/LostFrighteningInterface#main.rb)
+[Live Demo Link](https://repl.it/@SajjadAhmad14/Caesar-Cipher-Ruby#caesar.rb)
 
 
 ## Getting Started
