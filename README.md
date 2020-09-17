@@ -58,7 +58,7 @@ In the terminal you just have to put the following command:
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](issues/https://github.com/SajjadAhmad14/Caesar-Cipher-Ruby/issues).
+Feel free to check the [issues page](https://github.com/SajjadAhmad14/Caesar-Cipher-Ruby/issues).
 
 ## Show your support
 
